@@ -22,4 +22,13 @@ How much money did the customer spend in a given period? Customers who spend a l
    frequency = number of invoices/period
    #### Monetary Score:
    We grouped all customers, calculated the total money spent by each customer. We then calculated percentiles based on the total money. If the calculated percentile falls within the range of [80, 100], the recency score is assigned a value of 5. We continued to calculate the scores accordingly.
+
+### Customer Segmentation:
+Segmented all customers based on the RFM Score using the below chart.
+![Customer-Segmentation-Using-RFM-Analysis](https://github.com/user-attachments/assets/cf78e033-3ce7-469f-9fba-0c4c30478406)
+
+
+For more information, please check the below link.
+
+Credits to https://www.techtarget.com/searchdatamanagement/definition/RFM-analysis
    
